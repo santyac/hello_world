@@ -1,2 +1,2 @@
-alert("Hello World!!!");
+alert("Hello World from Vilanova");
 #hello_world
